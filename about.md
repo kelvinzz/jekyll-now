@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently a Ph.D. candidate at the University of Toronto. My research mainly focuses on Optimal Transport and its applications in Economics and Machine Learning.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Welcome to visit my academic website at: [http://www.math.toronto.edu/szhang/](http://www.math.toronto.edu/szhang/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shuangjian '-dot' zhang '-at(@@)-' mail '-dot-' utoronto '-dot-'ca]
