@@ -1,45 +1,18 @@
+---
+layout: default
+---
+
 <div class="posts">
-    <!--article class="post"-->
-<p>
-      <h1>Researchers:</h1>
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-      	<a href=http://www.math.toronto.edu/mccann/> Robert J. McCann</a> |
-	<a href=http://individual.utoronto.ca/xianwenshi/> Xianwen Shi</a> |
+        {{ post.excerpt }}
       </div>
-</p>
-    <!--/article-->
 
-
-	<p><h1>Useful Links:</h1>
-			<a href=https://arxiv.org/> arXiv</a> |
-			<a href=https://mathscinet.ams.org/mathscinet/> MathSciNet</a> |
-			<a href=http://www.ams.org/home/page> AMS</a> |
-	                <a href=http://www.cms.math.ca/> CMS</a> |
-			<a href=https://www.birs.ca/> BIRS</a> |
-			<a href=http://www.msri.org/web/cms> MSRI</a> |
-			<a href=http://www.fields.utoronto.ca/> Fields</a> |
-			<a href=http://www.pims.math.ca/> PIMS</a> | 
-			<a href=http://www.crm.umontreal.ca/> CRM</a> |
-			<a href=http://www.nim.nankai.edu.cn/nim_e/index.htm> CIM</a> |
- 			<a href=http://vectorinstitute.ai/> Vector</a> |
-			<a href=http://www.borealisai.com/> BorealisAI</a> |
-			<a href=https://layer6.ai/> Layer6AI</a> |
-			<a href=http://www.fast.ai/> fast.ai</a> |
-			<a href=https://www.coursera.org/> Coursera</a> |
-			<a href=https://onesearch.library.utoronto.ca/> UofT library</a> |
- 			<a href=https://www.sciencedirect.com/> ScienceDirect</a> |
-			<a href=http://www.jstor.org/> JSTOR</a> |
-			<a href=https://sites.google.com/site/themetalibrary/library-genesis> LibGen</a> |
-			<a href=https://scholar.google.com/> Google Scholar</a> |
-			<a href=https://www.economics.utoronto.ca/index.php/index/research/seminars> UofT Enonomics seminars</a> |
-			<a href=https://seminars.math.toronto.edu/seminars/list/events.py/process?start> UofT Math seminars</a> 
-
-
-
-
-
-
-	</p>
-
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
