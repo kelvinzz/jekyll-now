@@ -12,4 +12,4 @@ Welcome to visit my academic website at: [http://www.math.toronto.edu/szhang/](h
 
 ### Contact me
 
-[shuangjian.zhang '-at-' mail '-dot-' utoronto '-dot-'ca]
+[shuangjian '-dot' zhang '-at(@@)-' mail '-dot-' utoronto '-dot-'ca]
