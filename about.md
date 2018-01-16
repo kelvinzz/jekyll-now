@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am currently a Ph.D. candidate at University of Toronto. Working on Optimal Transport and its applicatoins in Economics and Machine Learning.
+I am currently a Ph.D. candidate at the University of Toronto. Working on Optimal Transport and its applications in Economics and Machine Learning.
 
 ### More Information
 
-Welcome to visit my academic website at: http://www.math.toronto.edu/szhang/
+Welcome to visit my academic website at: [http://www.math.toronto.edu/szhang/](http://www.math.toronto.edu/szhang/)
 
 ### Contact me
 
