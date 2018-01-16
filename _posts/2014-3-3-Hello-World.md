@@ -1,6 +1,6 @@
 ---
 //layout: post
-%%//title: You're up and running!
+//title: You're up and running!
 ---
 
 on Jan 16th, 2018.
