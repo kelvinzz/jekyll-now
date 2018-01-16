@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently a Ph.D. candidate at the University of Toronto. Working on Optimal Transport and its applications in Economics and Machine Learning.
+I am currently a Ph.D. candidate at the University of Toronto. My research mainly focuses on Optimal Transport and its applications in Economics and Machine Learning.
 
 ### More Information
 
