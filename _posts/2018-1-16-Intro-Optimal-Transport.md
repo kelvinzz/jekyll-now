@@ -19,3 +19,6 @@ title: Introduction to Optimal Transport
 
 * Villani. Optimal Transport: Old and New. Springer, 2009.
 
+
+
+For more references, see [http://www.math.toronto.edu/mccann/assignments/1502/books.pdf](http://www.math.toronto.edu/mccann/assignments/1502/books.pdf).
